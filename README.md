@@ -23,4 +23,4 @@ git commit -m "Your commit message"
 git pull                
 git push
 ```
-> Always run __git pull before pushing__ your changes to prevent merge conflicts..
+> Always run __git pull before pushing__ your changes to prevent merge conflicts.
