@@ -12,3 +12,10 @@ After a few minutes, the camera should film the environment: ![Pixy2 Bild](../im
 Furthere help on:	[docs.pixycam.com/wiki/doku.php?id=wiki:v2:install_pixymon_on_windows_vista_7_8](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:install_pixymon_on_windows_vista_7_8)
 
 To teach the pixy some objects, see [docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2)
+
+## Line tracking
+
+PixyMon has a build-in line-tracking function. It can be found under Programm -> line tracking.
+
+It can detect black lines with a white background without a problem. No calibrations needed.
+![1791792433964](image/PixyMon/1791792433964.png)
